@@ -1,0 +1,173 @@
+.falcon-container {
+  min-height: 100vh;
+  background: linear-gradient(120deg, #e6e9eb, #ffffff, #ffffff);
+  padding: 50px 20px;
+  color: #0f172a;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.falcon-wrapper {
+  max-width: 1150px;
+  margin: auto;
+}
+
+/* Header */
+.falcon-header {
+  text-align: center;
+  margin-bottom: 45px;
+  color: rgb(0, 0, 0);
+}
+
+.falcon-header p {
+font-size: 38px;
+  font-weight: 700;
+  background: linear-gradient(90deg, #000000, #0ea5e9, #000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 1px;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 15px;
+}
+
+/* Glass Card */
+.falcon-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  padding: 35px;
+  border-radius: 18px;
+  margin-bottom: 30px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+.falcon-card p{  font-size: 15px;
+  text-align: justify;
+  line-height: 1.7;
+  color: #555;
+  margin-bottom: 16px;}
+
+
+.falcon-card h2 {
+  color: #3e4044;
+  margin-bottom: 15px;
+}
+
+/* Services Grid */
+.falcon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+  gap: 25px;
+  margin-bottom: 35px;
+}
+
+.falcon-service {
+  background: white;
+  padding: 25px;
+  border-radius: 16px;
+  transition: 0.35s;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  border-top: 4px solid #000000;
+ position: relative;
+  overflow: hidden;
+  /* Animation */
+  /* animation: floatBox 6s ease-in-out infinite; */
+}
+/* @keyframes floatBox {
+  0% {
+    transform: translate(0px, 0px);
+  }
+  25% {
+    transform: translate(8px, -8px);
+  }
+  50% {
+    transform: translate(0px, -12px);
+  }
+  75% {
+    transform: translate(-8px, -8px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+.falcon-service:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.falcon-service:nth-child(2) {
+  animation-delay: 1s;
+}
+
+.falcon-service:nth-child(3) {
+  animation-delay: 2s;
+}
+
+.falcon-service:nth-child(4) {
+  animation-delay: 3s;
+}*/
+.falcon-service::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  background: linear-gradient(120deg, transparent, rgba(37,99,235,0.1), transparent);
+  opacity: 0;
+  transition: 0.4s;
+} 
+
+.falcon-service:hover::after {
+  opacity: 1;
+}
+.falcon-service h3 {
+  color: #404146;
+  margin-bottom: 10px;
+}
+.falcon-service p {
+  color: #475569;
+  font-size: 15px;
+  letter-spacing: 0.4px;
+  line-height: 1.8;
+  text-align: justify;
+  font-weight: 400;
+  word-spacing: 1px;
+  text-rendering: optimizeLegibility;
+}
+@media (min-width: 768px) {
+  .falcon-service p {
+    font-size: 16px;
+    line-height: 1.9;
+  }
+}
+/* Strength Section */
+.falcon-strengths {
+  background: white;
+  padding: 35px;
+  border-radius: 18px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+.falcon-strengths h2 {
+  color: #475569;
+  margin-bottom: 18px;
+}
+.falcon-strengths ul {
+  list-style: none;
+  padding: 0;
+}
+.falcon-strengths li {
+  padding: 10px 0;
+  border-bottom: 1px solid #f2f3f5;
+  color: #334155;
+  position: relative;
+  padding-left: 22px;
+}
+
+.falcon-strengths li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  color: #063aa0;
+  font-weight: bold;
+}
+
+
+
+
+
