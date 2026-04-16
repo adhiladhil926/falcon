@@ -32,8 +32,8 @@ const Footer = () => {
 
                     <div className="footer-col">
                         <h3>Quick Links</h3>
-                        <a href="/product">Services</a>
-                        <a href="/project">project</a>
+                        <a href="/service">Services</a>
+                        {/* <a href="/project">project</a> */}
                         <a href="/clients">client</a>     
                       <a href="/about">About Us</a>
                                               <a href="/contact">Contact Us</a>
