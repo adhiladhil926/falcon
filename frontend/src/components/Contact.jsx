@@ -1,7 +1,7 @@
 import React,{useState} from "react"
-import "../Style/Contact.css"
+import "../style/Contact.css"
 import { MdEmail, MdPhone, MdLocationPin } from "react-icons/md";
-import { ToastContainer, toast } from "react-toastify";   // ✅ ADD
+import { ToastContainer, toast } from "react-toastify";   
 import "react-toastify/dist/ReactToastify.css"; 
 
 const Contact = () => {
@@ -29,13 +29,13 @@ const Contact = () => {
       });
 
       if (res.ok) {
-        toast.success("Message sent successfully 🚀");   // ✅ changed
+        toast.success("Message sent successfully 🚀");   
         setFormData({ name: "", email: "", phone: "", message: "" });
       } else {
-        toast.error("Something went wrong ❌");          // ✅ changed
+        toast.error("Something went wrong ❌");          
       }
     } catch (error) {
-      toast.error("Error submitting form ⚠️");          // ✅ changed
+      toast.error("Error submitting form ⚠️");          
     }
   };
 
@@ -44,7 +44,6 @@ const Contact = () => {
    <div className="feedback"><h2>CONTACT US</h2></div>
       <div className="contact-wrapper">
         
-        {/* Left Form */}
         <div className="contact-left">
           <div className="form-group">
             <label>Your Name</label>
@@ -119,7 +118,6 @@ const Contact = () => {
   </div>
 
 
-{/* social-icon */}
   <div className="social-icons">
   <ul className="example-2">
   <li className="icon-content">
