@@ -9,7 +9,7 @@ function Home() {
     const images = [
         // "https://res.cloudinary.com/dkhzpntz0/image/upload/v1772190106/banner_fnedq0.png"
     //    "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774869329/9fe1d47b-f36e-43dc-b585-166e63ed904f.png"
-"https://res.cloudinary.com/dkhzpntz0/image/upload/v1774955323/i_extwwq.png"
+"https://res.cloudinary.com/dkhzpntz0/image/upload/q_auto/f_auto/v1776421614/b7ba6501-5e59-4772-b32b-1faa1b31a3cb_lqt6hd.png"
        ,
         // "https://res.cloudinary.com/dkhzpntz0/image/upload/v1772190105/banner2_yyo83x.png"
         "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774867607/IMG_8957_vzgslv.jpg"
@@ -99,7 +99,8 @@ const logo11 =["https://res.cloudinary.com/dkhzpntz0/image/upload/q_auto/f_auto/
                 {current === 0 && (
                     <div className="hero-text premium-reveal">
                         <h1>
-                            Welcome to <span>Falcon Infrastructure Ltd</span>
+                            Welcome to 
+                            {/* <span>Falcon Infrastructure Ltd</span> */}
                         </h1>
                         <p>Building strength. Shaping the future.</p>
                         {/* <button className="btn"> Know More

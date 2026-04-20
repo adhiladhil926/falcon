@@ -1,9 +1,5 @@
 import React from "react";
 import "../style/Footer.css";
-// import Logo from "../assets/falcon.png"
-
-// import Logo from "../assets/logo.png";
-
 
  const logo=["https://res.cloudinary.com/dkhzpntz0/image/upload/q_auto/f_auto/v1775625335/falcon-removebg-preview_luogax.png"]
 const f=["https://res.cloudinary.com/dkhzpntz0/image/upload/q_auto/f_auto/v1775553564/facebook_bklyta.png"]
@@ -17,7 +13,6 @@ const Footer = () => {
     return (
         <footer className="footer-animated-bg">
             <div className="footer">
-                {/* MAIN CONTENT */}
                 <div className="footer-main">
 
                     <div className="footer-col">
@@ -33,7 +28,6 @@ const Footer = () => {
                     <div className="footer-col">
                         <h3>Quick Links</h3>
                         <a href="/service">Services</a>
-                        {/* <a href="/project">project</a> */}
                         <a href="/clients">client</a>     
                       <a href="/about">About Us</a>
                                               <a href="/contact">Contact Us</a>

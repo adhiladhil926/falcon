@@ -23,7 +23,6 @@
   align-items: center;
 }
 
-/* LEFT IMAGES */
 .about-images {
   position: relative;
   flex: 1;
@@ -49,7 +48,6 @@
   width:65%;
 }
 
-/* RIGHT CONTENT */
 .about-content {
   flex: 1;
 }

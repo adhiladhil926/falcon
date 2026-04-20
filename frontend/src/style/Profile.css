@@ -11,7 +11,6 @@
   margin: auto;
 }
 
-/* Header */
 .falcon-header {
   text-align: center;
   margin-bottom: 45px;
@@ -68,41 +67,8 @@ font-size: 38px;
   border-top: 4px solid #000000;
  position: relative;
   overflow: hidden;
-  /* Animation */
-  /* animation: floatBox 6s ease-in-out infinite; */
-}
-/* @keyframes floatBox {
-  0% {
-    transform: translate(0px, 0px);
-  }
-  25% {
-    transform: translate(8px, -8px);
-  }
-  50% {
-    transform: translate(0px, -12px);
-  }
-  75% {
-    transform: translate(-8px, -8px);
-  }
-  100% {
-    transform: translate(0px, 0px);
-  }
-}
-.falcon-service:nth-child(1) {
-  animation-delay: 0s;
 }
 
-.falcon-service:nth-child(2) {
-  animation-delay: 1s;
-}
-
-.falcon-service:nth-child(3) {
-  animation-delay: 2s;
-}
-
-.falcon-service:nth-child(4) {
-  animation-delay: 3s;
-}*/
 .falcon-service::after {
   content: "";
   position: absolute;
