@@ -54,7 +54,6 @@
   height: 100%;
   object-fit: contain;
   padding: 30px;
-  /* filter: grayscale(100%) contrast(0.9) brightness(0.8); */
   transition: all 0.6s ease;
 }
 
@@ -71,8 +70,6 @@
   opacity: 0.6;
   transition: 0.5s;
 }
-
-/* GOLD BORDER (hidden initially) */
 .client-card::before {
   content: "";
   position: absolute;
@@ -110,7 +107,6 @@
   opacity: 1;
 }
 
-/* TEXT OVERLAY */
 .overlay {
   position: absolute;
   bottom: 20px;

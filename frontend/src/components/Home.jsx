@@ -16,7 +16,8 @@ function Home() {
         // "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774867609/IMG_8962_wajhgr.jpg"
         ,
         // "https://res.cloudinary.com/dkhzpntz0/image/upload/v1772190104/banner3_prccwz.png"
-    "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774868009/IMG_8938_qco6pj.webp"
+    // "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774868009/IMG_8938_qco6pj.webp"
+    "https://res.cloudinary.com/dkhzpntz0/image/upload/v1777022728/848084bf-dc1c-486a-8434-7f088554e089_kd8ozg.png"
     ];
 const ourService = [
 

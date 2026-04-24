@@ -16,7 +16,7 @@ function homecontent() {
       </div>
 
       <div className="text-box">
-        <h5>welcome to <strong>Falcon InfraSrtructure LLP</strong></h5>
+        <h5>Welcome to <strong>Falcon Infrastructure LLP</strong> </h5>
         <hr />
         <h2>Where Infrastructure Meets Excellence</h2>
         <p>
