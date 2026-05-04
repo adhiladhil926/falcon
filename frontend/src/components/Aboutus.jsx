@@ -116,11 +116,9 @@ Our mission is to develop and provide high-quality infrastructure and logistics 
         </div>
   <div className="about-images1">
           <img src={i3} alt="Senior Care" />
-          {/* <img src={smallImg} alt="Happy Seniors" className="overlay-img" /> */}
         </div>
    </div>
     </section>
-{/* services */}
 <br/>
 <div >
    
