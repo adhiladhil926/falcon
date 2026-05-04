@@ -1,5 +1,19 @@
 .service-section{
   padding: 90px 8%;
+    background: #ffffff;
+
+      animation: fadeSlide 0.5s ease;
+
+}
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 .service-header{
   margin-bottom: 60px;

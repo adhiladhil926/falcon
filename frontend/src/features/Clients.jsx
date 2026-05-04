@@ -17,6 +17,7 @@ const logos = [
 ];
 
 function Clients() {
+    window.scrollTo(0, 0);
   return (
     <section className="clients-section">
       <h2 className="clients-title">Our Trusted Clients</h2>

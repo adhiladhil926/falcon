@@ -78,6 +78,7 @@ const logo11 =["https://res.cloudinary.com/dkhzpntz0/image/upload/q_auto/f_auto/
     const [current, setCurrent] = useState(0);
 
     useEffect(() => {
+          window.scrollTo(0, 0);
         const interval = setInterval(() => {
             setCurrent((prev) => (prev + 1) % images.length);
         }, 5000);

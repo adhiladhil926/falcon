@@ -44,7 +44,7 @@ const ourService = [
         id: 7,
         title: "Plug-and-Play Office Infrastructure",
         discription: "50 functionally designed office spaces within the terminal.Plug-in facilities enabling immediate operational readiness.Suitable for logistics companies and allied businesses.Well-planned layout supporting administrative efficiency.Access to common infrastructure and utilities.Professional working environment within the logistics hub.",
-        image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774518948/WhatsApp_Image_2026-03-21_at_16.51.00_hsacki.jpg"
+        image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774867607/IMG_8862_pd9pog.jpg"
     },
     {
         id: 8,
@@ -92,6 +92,7 @@ const ourService = [
 ]
 
 function Services() {
+      window.scrollTo(0, 0);
     return (
         <section className='service-section'>
             <div className='service-header'>
