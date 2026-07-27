@@ -1,6 +1,7 @@
 .home-content{
     max-width: 2000px;
     margin:90px 60px;
+    
     padding: 0 24px;
     display: grid;
     grid-template-columns: 480px 1fr;
@@ -20,7 +21,7 @@ position: relative;
 .text-box{
 position: relative;
 padding: 40px;
-  height: 800px;
+  height: 900px;
   overflow: hidden;
   margin-left: 400px;
   margin-top: 50px;

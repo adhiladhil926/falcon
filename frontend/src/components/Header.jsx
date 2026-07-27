@@ -50,6 +50,7 @@ const Header = () => {
             <ul className={`nav-menu ${menuOpen ? "active" : ""}`}>
               <li onClick={() => navigate("/")}>Home</li>
               <li onClick={() => navigate("/about")}>About Us</li>
+               <li onClick={() => navigate("/notifications")}>Notifications</li>
               <li onClick={() => navigate("/service")}>Services</li>
               <li onClick={() => navigate("/clients")}>Clients</li>
               <li onClick={() => navigate("/contact")}>Contact Us</li>
