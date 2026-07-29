@@ -2,6 +2,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header.jsx" 
 import Home from "./components/Home.jsx";
 import Services from "./components/Services.jsx"
+import Notification from "./components/Notification.jsx"
+
 import About from "./components/Aboutus.jsx"
 import Footer from "./features/Footer.jsx";
 import Contact from "./components/Contact.jsx";
@@ -17,6 +19,8 @@ return (
 
             <Route path="/service" element={<Services />} />
         <Route path="/about" element={<About />} />
+                <Route path="/notifications" element={<Notification/>} />
+
     
         <Route path="/contact" element={<Contact />} />
                 <Route path="/clients" element={<Clients />} />
