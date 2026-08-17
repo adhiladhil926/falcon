@@ -52,7 +52,7 @@ const Footer = () => {
                             </a>
                         </div>
 
-                        <a href="tel:">+91 9496016555</a>
+                        {/* <a href="tel:">+91 9496016555</a> */}
                         <a href="mailto:info@falconindia.co.in">
                         </a>
 
