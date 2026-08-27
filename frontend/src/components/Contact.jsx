@@ -110,12 +110,16 @@ const Contact = () => {
   <div className="info-item">
     <MdPhone className="icon" />
     <a href=""> +91 9447055444</a>
-    
+
   </div>
 
   <div className="info-item">
     <MdEmail className="icon" />
-    <a href="mailto:mmshoppes@gmail.com">info@falconindia.co.in</a>
+    <a href="mailto:info@falconindia.co.in">info@falconindia.co.in</a>
+  </div>
+    <div className="info-item">
+    <MdEmail className="icon" />
+    <a href="mailto:mammuty.me@gmail.com">mammuty.me@gmail.com</a>
   </div>
 
 
