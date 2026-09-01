@@ -16,7 +16,7 @@ const Header = () => {
       <div className="top-bar">
         <div className="top-container">
           <div className="top-left">
-            <span><FaPhone /> +91 9496016555</span>
+            {/* <span><FaPhone /> +91 9496016555</span> */}
             <span><MdEmail /> info@falconindia.co.in</span>
           </div>
           <div className="top-right">
