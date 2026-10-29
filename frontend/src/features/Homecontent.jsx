@@ -35,7 +35,7 @@ function homecontent() {
           Infrastructural facilities in the State, in which,
           FIL was the first to join hands with the State
           Government. The Company has a shareholder base of
-          around 200 members mainly NRIs from Gulf Countries
+          around 180 members mainly NRIs from Gulf Countries
           who has infused Rs.30 crores as equity capital.
           The debt funding for capitalization purposes is
           from the State Government's apex business funding
