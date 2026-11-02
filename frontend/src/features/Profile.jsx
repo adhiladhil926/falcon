@@ -27,30 +27,30 @@ export default function Profile() {
           <p>
 
 Falcon Infrastructures Limited is a 26 years 10 months old Public Limited Company incorporated on 13-Jan-2000, having its registered office located at Kochi, Kerala.
-The major activity of Falcon Infrastructures Limited is Services, Sub-classified into Warehousing and support activities for transportation and is primarily engaged in the Storage and warehousing which includes general merchandise warehouses and warehousing of furniture automobiles gas and oil chemicals textiles etc included is storage of goods in foreign trade zones .
+The major activity of Falcon Infrastructures Limited is Services, Sub-classified into Warehousing and support activities for transportation and is primarily engaged in the Storage and warehousing which includes general merchandise warehouses and warehousing of furniture, automobiles, gas and oil, chemicals, textiles, etc. included is storage of goods in foreign trade zones.
 Falcon Infrastructures Limited is classified as Small enterprise in the financial year 2022-23.</p>
         </div>
 
         <div className="falcon-grid">
           <div className="falcon-service">
             <h3>Warehousing & Storage</h3>
-            <p>Large-scale storage for automobiles, Chemicals & industrial materials, Textiles & general cargo, and Includes general and specialized warehousing facilities .</p>
+            <p>Large-scale storage for automobiles, Chemicals & industrial materials, Textiles & general cargo, and Includes general and specialized warehousing facilities.</p>
           </div>
 
           <div className="falcon-service">
             <h3>Logistics Support</h3>
             <p>Cargo handling and distribution support, 
-Transportation coordination and support activities, Inventory management,Storage and cargo movement solutions</p>
+Transportation coordination and support activities, Inventory management, Storage and cargo movement solutions.</p>
           </div>
 
           <div className="falcon-service">
             <h3>Container Services</h3>
-            <p>Import and export cargo,Containerized cargo storage, Bulk and hazardous material handling, Industrial project cargo,Free Trade Zone (FTZ) related storage</p>
+            <p>Import and export cargo, Containerized cargo storage, Bulk and hazardous material handling, Industrial project cargo, Free Trade Zone (FTZ) related storage.</p>
           </div>
 
           <div className="falcon-service">
             <h3>Value Added Services</h3>
-            <p>Yard management, cargo consolidation, Space allocation for industrial operations,Equipment staging and maintenance areas,Operational support space for logistics companies</p>
+            <p>Yard management, cargo consolidation, Space allocation for industrial operations, Equipment staging and maintenance areas, Operational support space for logistics companies.</p>
           </div>
         </div>
 

@@ -20,7 +20,7 @@ const Footer = () => {
                       
                     </div>
                     <div className="falcon-d">  <p>
-            <strong>Falcon Infrastructures Ltd (FIL),</strong> was formed as a public limited Company in the year 2000 and the first phase commercial activities commenced in the year 2003 with Fuel Station, Commercial Complex with large built up area, large parking facility for Trucks, Weighbridge etc, along with their support activities and Logistics services. 
+            <strong>Falcon Infrastructures Ltd (FIL)</strong> was formed as a public limited Company in the year 2000 and the first phase commercial activities commenced in the year 2003 with Fuel Station, Commercial Complex with large built up area, large parking facility for Trucks, Weighbridge etc., along with their support activities and Logistics services. 
 </p></div>
 
                   
@@ -58,8 +58,8 @@ const Footer = () => {
 
                         <p>
                             <strong>Falcon Infrastructure</strong><br />
-                            Puthiya Road jn,Udhyogamandal P.O<br />
-                            PB No.4030,kochi 683501<br />
+                            Puthiya Road jn., Udhyogamandal P.O.<br />
+                            PB No. 4030, kochi 683501<br />
                             Kerala, India
                         </p>
 
@@ -72,7 +72,7 @@ const Footer = () => {
 
                 <div className="copy">
                     <p>
-                        All Rights Reserved © 2026
+                        All Rights Reserved © 2026.
                         Powered by <strong>Wondermill LLP</strong>
                     </p>
                 </div>

@@ -24,37 +24,37 @@ const ourService = [
     {
         id: 1,
         title: "Indian Oil Fuel & Energy Service Centre",
-        discription: "Authorized Indian Oil fuel outlet supplying petrol, diesel, and CNG.Integrated Xtra Power service centre catering to heavy commercial vehicles.Reliable fuel availability supporting continuous logistics operations.Infrastructure being upgraded with EV charging installation.Designed to handle high-volume commercial traffic efficiently.Compliance with safety, quality, and operational standards.",
+        discription: "Authorized Indian Oil fuel outlet supplying petrol, diesel, and CNG. Integrated Xtra Power service centre catering to heavy commercial vehicles. Reliable fuel availability supporting continuous logistics operations. Infrastructure being upgraded with EV charging installation. Designed to handle high-volume commercial traffic efficiently. Compliance with safety, quality, and operational standards.",
         image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774525768/ChatGPT_Image_Mar_26_2026_05_18_59_PM_piajrn.png"
     },
     {
         id: 2,
         title: "Truck Parking & Automated Access System",
-        discription: "Dedicated bays of parking designed specifically for trucks.Automated entry and exit system for controlled vehicle movement.Reduced congestion and faster turnaround time for transporters.Organized parking layout for safety and operational efficiency.Suitable for long-haul and short-haul transport vehicles.Integrated with terminal security and monitoring systems.",
+        discription: "Dedicated bays of parking designed specifically for trucks. Automated entry and exit system for controlled vehicle movement. Reduced congestion and faster turnaround time for transporters. Organized parking layout for safety and operational efficiency. Suitable for long-haul and short-haul transport vehicles. Integrated with terminal security and monitoring systems.",
         image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774519508/WhatsApp_Image_2026-03-21_at_16.52.55_uwbges.jpg"
     },
     {
         id: 3,
         title: "Computerized Terminal Administration",
-        discription: "Fully computerized terminal management system.Digital tracking of vehicles, cargo, and operational activities.Improved transparency and operational control.Faster documentation and administrative processing.Reduced manual intervention and human error.Enhanced coordination between terminal stakeholders",
+        discription: "Fully computerized terminal management system. Digital tracking of vehicles, cargo, and operational activities. Improved transparency and operational control. Faster documentation and administrative processing. Reduced manual intervention and human error. Enhanced coordination between terminal stakeholders.",
         image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774518949/WhatsApp_Image_2026-03-21_at_16.51.42_l5r5ld.jpg"
     },
     {
         id: 4,
         title: "Vehicle Spares & Consumables Retail Facilities",
-        discription: "Shops dealing in spare parts for commercial vehicles.Availability of tyres, tubes, batteries, and related consumables.On-site access to essential vehicle maintenance supplies.Reduced downtime for transport operators.Support services for trucks operating within the terminal.Convenient ecosystem for logistics and transport users.",
+        discription: "Shops dealing in spare parts for commercial vehicles. Availability of tyres, tubes, batteries, and related consumables. On-site access to essential vehicle maintenance supplies. Reduced downtime for transport operators. Support services for trucks operating within the terminal. Convenient ecosystem for logistics and transport users.",
         image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774867609/IMG_8962_wajhgr.jpg"
     },
     {
         id: 5,
         title: "Storage & Warehousing Facilities",
-        discription: "Spacious and well-planned storage infrastructure.Suitable for diverse cargo and commercial storage needs.Designed for efficient material handling and movement.Secure premises with controlled access.Scalable warehousing to support growing logistics demand.Integration with container and cargo handling operations.",
+        discription: "Spacious and well-planned storage infrastructure. Suitable for diverse cargo and commercial storage needs. Designed for efficient material handling and movement. Secure premises with controlled access. Scalable warehousing to support growing logistics demand. Integration with container and cargo handling operations.",
         image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774867611/IMG_8939_b8z3ta.jpg"
     },
     {
         id: 6,
-        title: " Electronic Weighbridge Facilities",
-        discription: "100-ton electronic weighbridge for heavy vehicles.60-ton electronic weighbridge for medium cargo vehicles.Accurate and reliable weight measurement.Compliance with statutory and regulatory requirements.Faster vehicle processing and reduced waiting time.Integrated with terminal operational systems.",
+        title: "Electronic Weighbridge Facilities",
+        discription: "100-ton electronic weighbridge for heavy vehicles. 60-ton electronic weighbridge for medium cargo vehicles. Accurate and reliable weight measurement. Compliance with statutory and regulatory requirements. Faster vehicle processing and reduced waiting time. Integrated with terminal operational systems.",
         image: "https://res.cloudinary.com/dkhzpntz0/image/upload/v1774867610/IMG_8967_cmjxvf.jpg"
     },
   ]

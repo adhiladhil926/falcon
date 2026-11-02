@@ -10,7 +10,7 @@ export default function Notifications() {
   const notifications = [
     {
       id: 1,
-      title: " Form MGT-13- Scrutinizers Report-AGM 2026",
+      title: "Form MGT-13 - Scrutinizers Report - AGM 2026",
       description: "Click the PDF to view the complete presentation.",
       date: "29 July 2026",
       pdfUrl: scrutinizersPdf,
@@ -55,7 +55,7 @@ export default function Notifications() {
 
           <div className="notifications-heading__content">
             
-            <h1>Poll result of agenda item number 7 under special business on amalgamation at 26 th AGM of Falcon Infrastructures Limited held on 25 -07-2026 - Report of Scrutinizer</h1>
+            <h1>Poll result of agenda item number 7 under special business on amalgamation at 26th AGM of Falcon Infrastructures Limited held on 25-07-2026 - Report of Scrutinizer</h1>
             <p>View the latest documents and official updates.</p>
           </div>
         </div>

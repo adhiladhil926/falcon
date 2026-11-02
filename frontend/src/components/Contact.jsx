@@ -29,13 +29,13 @@ const Contact = () => {
       });
 
       if (res.ok) {
-        toast.success("Message sent successfully 🚀");   
+        toast.success("Message sent successfully. 🚀");   
         setFormData({ name: "", email: "", phone: "", message: "" });
       } else {
-        toast.error("Something went wrong ❌");          
+        toast.error("Something went wrong. ❌");          
       }
     } catch (error) {
-      toast.error("Error submitting form ⚠️");          
+      toast.error("Error submitting form. ⚠️");          
     }
   };
 
