@@ -26,8 +26,8 @@ export default function Profile() {
           </p>
           <p>
 
-Falcon Infrastructures Limited is a 26 years 2 months old Public Limited Company incorporated on 13-Jan-2000, having its registered office located at Kochi, Kerala.
-The major activity of Falcon Infrastructures Limited is Services, Sub-classified into Warehousing and support activities for transportation and is primarily engaged in the Storage and warehousing n e c includes general merchandise warehouses and warehousing of furniture automobiles gas and oil chemicals textiles etc also included is storage of goods in foreign trade zones .
+Falcon Infrastructures Limited is a 26 years 10 months old Public Limited Company incorporated on 13-Jan-2000, having its registered office located at Kochi, Kerala.
+The major activity of Falcon Infrastructures Limited is Services, Sub-classified into Warehousing and support activities for transportation and is primarily engaged in the Storage and warehousing which includes general merchandise warehouses and warehousing of furniture automobiles gas and oil chemicals textiles etc included is storage of goods in foreign trade zones .
 Falcon Infrastructures Limited is classified as Small enterprise in the financial year 2022-23.</p>
         </div>
 
@@ -45,7 +45,7 @@ Transportation coordination and support activities, Inventory management,Storage
 
           <div className="falcon-service">
             <h3>Container Services</h3>
-            <p>SImport and export cargo,Containerized cargo storage, Bulk and hazardous material handling, Industrial project cargo,Free Trade Zone (FTZ) related storage</p>
+            <p>Import and export cargo,Containerized cargo storage, Bulk and hazardous material handling, Industrial project cargo,Free Trade Zone (FTZ) related storage</p>
           </div>
 
           <div className="falcon-service">
@@ -57,7 +57,8 @@ Transportation coordination and support activities, Inventory management,Storage
         <div className="falcon-strengths">
           <h2>Key Strengths</h2>
           <ul>
-            <li>Strategic Kochi industrial location</li>
+            <li>Strategic industrial location of Kochi</li>
+            <li>Accesibility from the all main national highways</li>
             <li>25+ years experience</li>
             <li>Multi-cargo handling capability</li>
             <li>Integrated logistics ecosystem</li>

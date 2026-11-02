@@ -20,7 +20,6 @@ function homecontent() {
         <hr />
         <h2>Where Infrastructure Meets Excellence</h2>
         <p>
-
           <strong > Falcon Infrastructures Ltd (FIL)</strong>, was formed as a public limited Company in the year
           2000 and the first phase commercial activities commenced
           in the year 2003 with Fuel Station, Commercial Complex
